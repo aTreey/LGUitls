@@ -1,0 +1,6 @@
+framework module LGUitls {
+  umbrella header "LGUitls-umbrella.h"
+
+  export *
+  module * { export * }
+}
